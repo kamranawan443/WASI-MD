@@ -19,8 +19,8 @@ global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Pakistan";
 global.github=process.env.GITHUB|| "https://github.com/wasixd/WASI-MD";
-global.gurl  =process.env.GURL  || "https://wa.link/1r684o";
-global.website=process.env.GURL || "https://wa.link/1r684o" ; 
+global.gurl  =process.env.GURL  || "https://wa.link/tynuv0";
+global.website=process.env.GURL || "https://wa.link/tynuv0" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/a41fc42eacdc2e56fcecd.jpg" ; // SET LOGO FOR IMAGE 
 
 
@@ -71,7 +71,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.0.0",
-  caption : process.env.CAPTION || "𝙵𝙸𝙻𝙴 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 καmrαη αωαη 🔥🚩" , // ```『 ²⁴ ᴠᴇɴᴏᴄʏʙᴇʀ-ᴍᴅ 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@JASTINMTEWA-vn9pl"),
+  caption : process.env.CAPTION || "𝙵𝙸𝙻𝙴 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 καmrαη αωαη 🔥🚩" , // ```『 καmrαη αωαη 🔥🚩 』```", //*『καmrαη αωαη 🔥🚩』*\n https://wa.link/tynuv0"),
  
   author : process.env.PACK_AUTHER|| "καmrαη αωαη 🔥 ",
   packname: process.env.PACK_NAME || "♥️",
